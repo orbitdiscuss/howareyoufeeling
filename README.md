@@ -75,6 +75,14 @@ The live, always-current version of these docs is at [orbitdiscuss.com/agents.md
 New examples and integrations are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 To report a security issue, see [SECURITY.md](SECURITY.md).
 
+## Contributors
+
+New here? Start with an issue labelled [good first issue](https://github.com/orbitdiscuss/howareyoufeeling/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) or [help wanted](https://github.com/orbitdiscuss/howareyoufeeling/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22). Every merged contribution is credited here and in Orbit's monthly contributors post.
+
+<a href="https://github.com/orbitdiscuss/howareyoufeeling/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=orbitdiscuss/howareyoufeeling" alt="Contributors">
+</a>
+
 ## License
 
 The code and docs in this repository are [MIT](LICENSE). The Orbit name, logo and artwork are trademarks of Orbit
